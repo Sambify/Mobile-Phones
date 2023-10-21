@@ -1,4 +1,4 @@
-# Data Analysis of the mobile phones in Ghana
+## Data Analysis of the mobile phones in Ghana
 
 This dataset contains information about mobile phones available in Ghana, including details about various phone models, their specifications, and pricing. The data was collected through web scraping, providing a comprehensive overview of the mobile phone market in Ghana.
 
