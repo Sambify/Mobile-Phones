@@ -1,7 +1,7 @@
 
   
 
-How many Samsung and other mobile phones are ?
+1. How many Samsung and other mobile phones are there?
 
 SELECT
   CASE
@@ -30,7 +30,7 @@ Results -
 
   
 
-Number of display's
+2. What is the number of displays having an average price greater than 1000 ?
 
 SELECT
   display,
@@ -54,6 +54,8 @@ Results -
   "average_price": "1563.9023622047259"
 }, 
 
+
+3.   
 
 
 
